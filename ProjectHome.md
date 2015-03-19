@@ -1,0 +1,1 @@
+Planet Conquest (PlanetCon) is an Open source Galcon clone written in Lua and using the Love2d Game Engine
